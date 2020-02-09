@@ -1,4 +1,4 @@
-# used_vehicle
+# Used Car Market Data Analysis
 The objective of this side project is to examine the model forecasting of the used car price in the U.S with the listing prices in the market as the hypothesis of the strike prices.  
 After we had searched for any favorable dataset provided on the Internet, there were not too much valuable to take data analysis. Most of them are with millions of rows but with less than five columns, or the periods are obsolete.
 Thus, the qualifications of this sideproject's dataset are obvious.   
