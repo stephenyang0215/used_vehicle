@@ -7,6 +7,8 @@ Then, we scrapped the vehicle selling information posted on the usedcar websites
 Finally, here is the dataset we got which was made in 12/20/2019.  
 | Number of Rows | Number of Columns |
 | ------------- | ------------- |
+| 2375350 | 29 |  
+
 Below are the list of columns and its description:  
 * CarID  
 * MakeId  
