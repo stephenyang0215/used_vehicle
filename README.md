@@ -4,11 +4,11 @@ After we had searched for any favorable dataset provided on the Internet, there 
 Thus, the qualifications of this sideproject's dataset are obvious.   
 The vehicles information must be as precise and detailed as possible which means the quantity of the columns. Also the dataset better not be obsolete which means the dataset should be made in 2019.  
 Then, we scrapped the vehicle selling information posted on the usedcar websites.
-Finally, here is the dataset we got which was made in 12/20/2019 . 
+Finally, here is the dataset we got which was made in 12/20/2019.  
 Number of Rows | Number of Columns
 ------------ | -------------
 2375350 | 29
-
+  
 Below are the list of columns and its description:  
 * CarID  
 * MakeId  
