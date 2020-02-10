@@ -69,4 +69,4 @@ Days of a car listed on the website.
 * OriginPrice  
 Price offered by seller in the first place.  
 
-[GitHub](http://youtube.com)
+[Data Exploration](https://github.com/stephenyang0215/used_vehicle/blob/master/Data_Cleaning_and_EDA.ipynb)
