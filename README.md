@@ -11,6 +11,7 @@ Finally, here is the dataset we got which was made in 12/20/2019.
 
 Below are the list of columns and its description:  
 * CarID  
+ID Number of each vehicle.  
 * MakeId  
 * Title  
 * Make   
