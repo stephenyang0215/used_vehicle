@@ -13,18 +13,31 @@ Below are the list of columns and its description:
 * CarID  
 ID Number of each vehicle.  
 * MakeId  
+ID Number of each vehicle brand.  
 * Title  
+Title of vehicle.  
 * Make   
+Vehicle brand.  
 * Model  
+Vehicle Model.  
 * Trim  
+A vehicle trim model is a version of a vehicle model used by manufacturers to identify a vehicle's level of equipment.
 * BodyStyle  
+The body style of a vehicle refers to the shape and model of a particular automobile make.  
 * Rental  
+Tell if the vehicle is a rental car or not.  
 * Location  
+State and city/county of a vehicle where it located.  
 * GasMileage_city  
+Fuel efficiency in city area.  
 * GasMileage_highway  
-* Price  
+Fuel efficiency in highway.  
+* Price
+price of vehicle in USD.  
 * Mileage  
+One indicator of vehicle condition, a number of miles a vehicle covered.  
 * Transmission  
+
 * FuelType  
 * ExteriorColor  
 * InteriorColor  
