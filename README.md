@@ -84,11 +84,13 @@ Price offered by seller in the first place.
 And find the optimal solution to the predication.
 ### XGBoost
 ![ML1](Images/gbtree_train_test.png)  
+method:gbtree
 | R-squared | RMSE |
 | ------------- | ------------- |
 |   0.937 |      2650 |    
 ### Random Forest
-![ML2](Images/RF_score.png)  
+![ML2](Images/RF_score.png) 
+method:regression
 | R-squared | RMSE |
 | ------------- | ------------- |
 |   0.94 |      2618 |
