@@ -69,7 +69,7 @@ Days of a car listed on the website.
 * OriginPrice  
 Price offered by seller in the first place.  
 
-[Data Exploration](https://github.com/stephenyang0215/used_vehicle/blob/master/Data_Cleaning_and_EDA.ipynb)
+[Data Exploration](Data_Cleaning_and_EDA.ipynb)
 1. Distribution of each brand model marketshare and it's average price.  
 ![exp1](Images/Brand_price_count.png)
 2. Comparison of median income and average vehicle price of each state.  
@@ -78,4 +78,8 @@ Price offered by seller in the first place.
 ![exp3](Images/bodystyle_price_state.png)
 4. Comparison of each body style by marketshare percentage and average vehicle price by three grouped states. 
 ![exp4](Images/bodystyle_price_percentage.png)
+
+[Machine Learning](Usedcar_ML.ipynb)
+### XGBoost
+
 
