@@ -70,3 +70,5 @@ Days of a car listed on the website.
 Price offered by seller in the first place.  
 
 [Data Exploration](https://github.com/stephenyang0215/used_vehicle/blob/master/Data_Cleaning_and_EDA.ipynb)
+![exp1](Images/Brand_price_count.png)
+
