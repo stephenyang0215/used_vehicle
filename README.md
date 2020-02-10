@@ -72,7 +72,9 @@ Price offered by seller in the first place.
 [Data Exploration](https://github.com/stephenyang0215/used_vehicle/blob/master/Data_Cleaning_and_EDA.ipynb)
 1. Distribution of each brand model marketshare and it's average price.  
 ![exp1](Images/Brand_price_count.png)
+2. Comparison of median income and average vehicle price of each state.  
 ![exp2](Images/State_income_price.png)
+3. Median price comparison by body style over three grouped states by median income range
 ![exp3](Images/bodystyle_price_state.png)
 ![exp4](Images/bodystyle_price_percentage.png)
 
