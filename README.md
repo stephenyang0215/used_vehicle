@@ -9,7 +9,7 @@ Finally, here is the dataset we got which was made in 12/20/2019.
 | ------------- | ------------- |
 |   2375350 |      29 |  
 
-Below are the list of columns and its description:  
+Below is the list of columns and its description:  
 * CarID  
 ID Number of each vehicle.  
 * MakeId  
@@ -70,6 +70,7 @@ Days of a car listed on the website.
 Price offered by seller in the first place.  
 
 [Data Exploration](https://github.com/stephenyang0215/used_vehicle/blob/master/Data_Cleaning_and_EDA.ipynb)
+1. Distribution of each brand model marketshare and it's average price.  
 ![exp1](Images/Brand_price_count.png)
 ![exp2](Images/State_income_price.png)
 ![exp3](Images/bodystyle_price_state.png)
