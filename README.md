@@ -9,30 +9,30 @@ Finally, here is the dataset we got which was made in 12/20/2019 .
 Below are the list of columns and its description:  
 * CarID  
 * MakeId  
-Title  
-Make   
-Model  
-Trim  
-BodyStyle  
-Rental  
-Location  
-GasMileage_city  
-GasMileage_highway  
-Price  
-Mileage  
-Transmission  
-FuelType  
-ExteriorColor  
-InteriorColor  
-DoorsNum  
-MaximumSeating  
-Engine  
-Drivetrain  
-VIN  
-OptionCount  
-MajorOptions  
-Certified  
-Accident Check  
-OwnershipHistory  
-SellingDays  
-OriginPrice  
+* Title  
+* Make   
+* Model  
+* Trim  
+* BodyStyle  
+* Rental  
+* Location  
+* GasMileage_city  
+* GasMileage_highway  
+* Price  
+* Mileage  
+* Transmission  
+* FuelType  
+* ExteriorColor  
+* InteriorColor  
+* DoorsNum  
+* MaximumSeating  
+* Engine  
+* Drivetrain  
+* VIN  
+* OptionCount  
+* MajorOptions  
+* Certified  
+* Accident Check  
+* OwnershipHistory  
+* SellingDays  
+* OriginPrice  
