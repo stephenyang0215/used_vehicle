@@ -81,5 +81,8 @@ Price offered by seller in the first place.
 
 [Machine Learning](Usedcar_ML.ipynb)
 ### XGBoost
-
+![ML1](Images/gbtree_train_test.png)  
+| R-squared | RMSE |
+| ------------- | ------------- |
+|   0.937 |      2650 |    
 
