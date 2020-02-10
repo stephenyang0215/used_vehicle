@@ -37,19 +37,34 @@ price of vehicle in USD.
 * Mileage  
 One indicator of vehicle condition, a number of miles a vehicle covered.  
 * Transmission  
-
+A transmission is a machine in a power transmission system, which provides controlled application of the power.  
 * FuelType  
+Type of fuel that is used to provide power to vehicle.  
 * ExteriorColor  
+Color of exterior part of car.  
 * InteriorColor  
+Color of interior part of car.  
 * DoorsNum  
+Number of doors of car.  
 * MaximumSeating  
+Maximum number of seating.  
 * Engine  
+An engine is a machine designed to convert one form of energy into mechanical energy.  
 * Drivetrain  
+The drivetrain of a motor vehicle is the group of components that deliver power to the driving wheels.  
 * VIN  
+Vehicle Identification Number. VIN is used to identify a specific vehicle.  
 * OptionCount  
+Count of options on a car.  
 * MajorOptions  
+MajorOptions shows the major packages or equipment that a car uses.  
 * Certified  
+This column specify if a car is CPO(certified pre-owned). A CPO car comes with a complete inspection that repairs any damaged or worn parts before being offered for sale.  
 * Accident Check  
+Inspection of accidents occured on a car.  
 * OwnershipHistory  
+History of ownership of a car.  
 * SellingDays  
+Days of a car listed on the website.  
 * OriginPrice  
+Price offered by seller in the first place.  
