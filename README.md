@@ -89,7 +89,7 @@ method:gbtree
 | ------------- | ------------- |
 |   0.937 |      2650 |    
 ### Random Forest
-![ML2](Images/RF_score.png) 
+![ML2](Images/RF_score.png)  
 method:regression
 | R-squared | RMSE |
 | ------------- | ------------- |
