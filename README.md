@@ -68,5 +68,5 @@ History of ownership of a car.
 Days of a car listed on the website.  
 * OriginPrice  
 Price offered by seller in the first place.  
-http://github.com - automatic!
-[GitHub](http://github.com)
+
+[GitHub](http://youtube.com)
