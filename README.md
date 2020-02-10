@@ -74,7 +74,8 @@ Price offered by seller in the first place.
 ![exp1](Images/Brand_price_count.png)
 2. Comparison of median income and average vehicle price of each state.  
 ![exp2](Images/State_income_price.png)
-3. Median price comparison by body style over three grouped states by median income range
+3. Median price comparison by body style over three grouped states by median income range.  
 ![exp3](Images/bodystyle_price_state.png)
+4. Comparison of each body style by marketshare percentage and average vehicle price by three grouped states. 
 ![exp4](Images/bodystyle_price_percentage.png)
 
