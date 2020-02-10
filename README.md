@@ -85,4 +85,9 @@ Price offered by seller in the first place.
 | R-squared | RMSE |
 | ------------- | ------------- |
 |   0.937 |      2650 |    
+### Random Forest
+![ML2](Images/RF_score.png)  
+| R-squared | RMSE |
+| ------------- | ------------- |
+|   0.94 |      2618 |
 
