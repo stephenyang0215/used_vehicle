@@ -3,17 +3,18 @@
 The market sales of used car is more than twice of the size of new car segment and keeps reaching new peak in growth.
 Over the past five years, the sales number of used car rised from 35.8 million in 2014 to 40.2 million in 2019.
 Demands include inline/offline service, dealership, insurance and information service. The whole businesses keep expanding as we expected.  
+What we are considering is the issue of service quality while the market is expanding at the same time.  
+Problems of buying a used car sometimes could be serious.  Using advantages of information gap such as concealing defect of product or overestimation of certain product for selling at priority.  
 ### Introduction  
-This side project is to examine the possibility of two main objectives. One for price prediction for used car given different conditions.
+This side project is to fullfill the two main objectives. One for price prediction for used car given different conditions.
 Another is to do classification as recommendation system both for dealership and customer.
-Utimaltely reduce infromation gap between both sides.  
-
-examine the model forecasting of the used car listing price in the U.S.  
-We had been searching for any possible dataset provided on the Internet, but those we found were not valuable enough to take into consideration. Most of them were with millions of rows but roughly with only four or five columns, or the periods were obsolete.
-Thus, the qualifications of this sideproject's dataset are obvious.   
-The vehicles information must be as precise and detailed as possible which means the quantity of the columns. Also the dataset better not be obsolete which means the dataset should be made in around 2019.  
-Then, we decided to scrap the vehicle selling information posted on the usedcar websites.
-Finally, here is the dataset we got which was made in 12/20/2019.  
+Given the point that customer are prepared to make decision after receiving fair information at which utimaltely reduce infromation gap between both sides.
+ 
+We had been searching for any possible dataset provided on the Internet, but those were not valuable enough to take into consideration. Millions of rows but roughly with only four or five columns, or the periods were obsolete.
+Then, we realized the qualifications of this sideproject's dataset which are obvious.   
+The vehicles information must be as precise and detailed as possible which means the quantity of the columns. Also the dataset better not be obsolete which means the timeline be in around 2019.  
+Finally, we decided to scrap the vehicle selling information posted on the usedcar websites.
+Here is the dataset we got which was made in 12/20/2019.  
 | Number of Rows | Number of Columns |
 | ------------- | ------------- |
 |   2375350 |      29 |  
