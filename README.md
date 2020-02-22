@@ -73,12 +73,14 @@ Price offered by seller in the first place.
 [Data Exploration](Data_Cleaning_and_EDA.ipynb) : Explore the dataset and check its distribution at multiple aspects.    
 1. Distribution of each brand model marketshare and it's average price.  
 ![exp1](Images/vehicle_count.png)
-2. Comparison of median income and average vehicle price of each state.  
-![exp2](Images/State_income_price.png)
-3. Median price comparison by body style over three grouped states by median income range.  
-![exp3](Images/bodystyle_price_state.png)
-4. Comparison of each body style by marketshare percentage and average vehicle price by three grouped states. 
-![exp4](Images/bodystyle_price_percentage.png)
+2. Detection of top 30 models' outliers.  
+![exp2](Images/vehicle_boxplot.png)
+3. Comparison of median income and average vehicle price of each state.  
+![exp3](Images/State_income_price.png)
+4. Median price comparison by body style over three grouped states by median income range.  
+![exp4](Images/bodystyle_price_state.png)
+5. Comparison of each body style by marketshare percentage and average vehicle price by three grouped states. 
+![exp5](Images/bodystyle_price_percentage.png)
 
 [Machine Learning](Usedcar_ML.ipynb) : The task of ML is to fit the model to the dataset.
 And find the optimal solution to the predication.
