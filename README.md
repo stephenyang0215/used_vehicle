@@ -73,7 +73,7 @@ Price offered by seller in the first place.
 [Data Exploration](Data_Cleaning_and_EDA.ipynb) : Explore the dataset and check its distribution at multiple aspects.    
 1. Distribution of each brand model marketshare and it's average price.  
 ![exp1](Images/vehicle_count.png)
-2. Detection of top 30 models' outliers.  
+2. Detection of top 30 models' price outliers.  
 ![exp2](Images/vehicle_boxplot.png)
 3. Comparison of median income and average vehicle price of each state.  
 ![exp3](Images/State_income_price.png)
