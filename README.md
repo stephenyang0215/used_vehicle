@@ -72,7 +72,7 @@ Price offered by seller in the first place.
 
 [Data Exploration](Data_Cleaning_and_EDA.ipynb) : Explore the dataset and check its distribution at multiple aspects.    
 1. Distribution of each brand model marketshare and it's average price.  
-![exp1](Images/Brand_price_count.png)
+![exp1](Images/vehicle_count.png)
 2. Comparison of median income and average vehicle price of each state.  
 ![exp2](Images/State_income_price.png)
 3. Median price comparison by body style over three grouped states by median income range.  
