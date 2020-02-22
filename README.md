@@ -70,7 +70,7 @@ Days of a car listed on the website.
 * OriginPrice  
 Price offered by seller in the first place.  
 
-[Data Exploration](Data_Cleaning_and_EDA.ipynb) : Explore the dataset and check its distribution at multiple aspects.    
+[Data Exploration](Data_Cleaning_and_EDA.ipynb) : Explore the dataset and check its distribution at multiple aspects. Click the link for futher detail.   
 1. Distribution of each brand model marketshare and it's average price.  
 ![exp1](Images/vehicle_count.png)
 2. Detection of top 30 models' price outliers.  
@@ -83,7 +83,7 @@ Price offered by seller in the first place.
 ![exp5](Images/bodystyle_price_percentage.png)
 
 [Machine Learning](Usedcar_ML.ipynb) : The task of ML is to fit the model to the dataset.
-And find the optimal solution to the predication.
+And find the optimal solution to the predication. Click the link for further detail.  
 ### XGBoost
 ![ML1](Images/gbtree_train_test.png)  
 method:gbtree
