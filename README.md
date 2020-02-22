@@ -82,7 +82,7 @@ Price offered by seller in the first place.
 5. Comparison of each body style by marketshare percentage and average vehicle price by three grouped states. 
 ![exp5](Images/bodystyle_price_percentage.png)
 
-[Machine Learning](Usedcar_ML.ipynb)(Click the link for further detail!) : The task of ML is to fit the model to the dataset.
+[Price Prediction](Usedcar_ML.ipynb)(Click the link for further detail!) : The task of ML is to fit the model to the dataset.
 And find the optimal solution to the predication.     
 ### XGBoost
 ![ML1](Images/gbtree_train_test.png)  
