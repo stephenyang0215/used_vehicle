@@ -73,6 +73,8 @@ Features shows the major packages or equipment that a car uses.
 * Certified  
 This column specify if a car is CPO(certified pre-owned). A CPO car comes with a complete inspection that repairs any damaged or worn parts before being offered for sale.  
 
+### Exploratory Data Analysis  
+
 [Data Exploration](Data_Cleaning_and_EDA.ipynb)(Click the link for further detail!) : Explore the dataset and check its distribution at multiple aspects.   
 1. Distribution of each brand model marketshare and it's average price.  
 ![exp1](Images/vehicle_count.png)
@@ -84,6 +86,8 @@ This column specify if a car is CPO(certified pre-owned). A CPO car comes with a
 ![exp4](Images/bodystyle_price_state.png)
 5. Comparison of each body style by marketshare percentage and average vehicle price by three grouped states. 
 ![exp5](Images/bodystyle_price_percentage.png)
+
+### Machine Learning  
 
 [Price Prediction](Usedcar_ML.ipynb)(Click the link for further detail!) : The task of ML is to fit the model to the dataset.
 And find the optimal solution to the predication.     
