@@ -37,11 +37,11 @@ The body style of a vehicle refers to the shape and model of a particular automo
 * Rental  
 Tell if the vehicle is a rental car or not.  
 * Location  
-State and city/county of a vehicle where it located.  
+State and city/county of a vehicle where it locates.  
 * MPG_city  
-Fuel efficiency in city area.  
+Fuel efficiency under city driving condition.  
 * MPG_highway  
-Fuel efficiency in highway.     
+Fuel efficiency under highway driving condition.     
 * Transmission  
 A transmission is a machine in a power transmission system, which provides controlled application of the power.  
 * OwnershipHistory  
@@ -53,7 +53,7 @@ Color of exterior part of car.
 * Interior  
 Color of interior part of car.  
 * DriveType    
-The drivetrain of a motor vehicle is the group of components that deliver power to the driving wheels.  
+The DriveType of a motor vehicle is the group of components that deliver power to the driving wheels.  
 * Accident Report  
 Inspection of accidents occured on a car.  
 * Seating  
@@ -67,7 +67,7 @@ Count of options on a car.
 * Engine  
 An engine is a machine designed to convert one form of energy into mechanical energy.  
 * Features    
-MajorOptions shows the major packages or equipment that a car uses.  
+Features shows the major packages or equipment that a car uses.  
 * Certified  
 This column specify if a car is CPO(certified pre-owned). A CPO car comes with a complete inspection that repairs any damaged or worn parts before being offered for sale.  
 
