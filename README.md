@@ -13,7 +13,7 @@ Given the point that customer are prepared to make decision after receiving fair
 We had been searching for any possible dataset provided on the Internet, but those were not valuable enough to take into consideration. Millions of rows but roughly with only four or five columns, or the periods were obsolete.
 Then, we realized the qualifications of this sideproject's dataset must be as precise and detailed as possible which means the quantity of the columns. Also the dataset better not be obsolete which means the timeline be in around 2019.    
 Finally, we decided to scrap the vehicle selling information posted on the usedcar websites.  
-Here is the dataset we got which was made in 12/20/2019.  
+Here is the dataset we got which was made on 12/20/2019.  
 
 | Number of Rows | Number of Columns |
 | ------------- | ------------- |
