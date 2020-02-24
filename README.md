@@ -106,3 +106,4 @@ method:regression
 | ------------- | ------------- |
 |   0.94 |      2618 |
 
+[Product Classification Analysis](Usedcar_Classification.ipynb)(Click the link for further detail!) : The task of KMeans is to classify the most related product for customer or dealer as recommendation.
