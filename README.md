@@ -17,7 +17,7 @@ Finally, we decided to scrap the vehicle selling information posted on the usedc
 Here is the dataset we got which was made in 12/20/2019.  
 | Number of Rows | Number of Columns |
 | ------------- | ------------- |
-|   2375350 |      26 |  
+|   2375350 |      25 |  
 
 Below is the list of columns and its description:
 * Title  
